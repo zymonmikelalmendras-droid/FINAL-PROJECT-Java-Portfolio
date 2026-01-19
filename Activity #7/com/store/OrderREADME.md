@@ -1,0 +1,1 @@
+This package contains all classes related to order handling. It defines the abstract Order class, an OnlineOrder implementation, and the OrderStatus enum. These classes manage order details, processing behavior, and order state transitions.
