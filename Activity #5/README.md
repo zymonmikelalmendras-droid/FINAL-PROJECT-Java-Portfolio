@@ -1,0 +1,1 @@
+This Java program demonstrates OOP concepts such as inheritance and aggregation. Person is the base class extended by Student and Teacher. Teachers handle multiple Course objects. The program displays student details, teacher information, and the courses they handle.
