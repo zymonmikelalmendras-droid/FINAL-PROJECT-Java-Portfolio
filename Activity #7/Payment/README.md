@@ -1,0 +1,1 @@
+This package contains the Payable interface. It defines the pay() method, which must be implemented by any class that supports payment functionality. This promotes loose coupling and interface-based design.
