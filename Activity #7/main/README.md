@@ -1,0 +1,1 @@
+This package contains the main entry point of the program. The OrderApp class creates and manages a list of orders, processes payments, iterates through orders using an iterator, and displays order summaries.
